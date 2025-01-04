@@ -59,3 +59,4 @@ if apps:
         print(Fore.RED + "Invalid selection" + Style.RESET_ALL)
 else:
     print(Fore.RED + "No app found" + Style.RESET_ALL)
+#i really hate making this
